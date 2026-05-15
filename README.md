@@ -1,7 +1,5 @@
 # n8n on Ubuntu — Fresh Docker Setup Guide
 
-# Before these steps install docker from docker-linux-repo
-
 > A full start-to-finish guide to run a local n8n server using Docker on Ubuntu.
 
 **Compatible with:** i5 10th Gen+ · 8 GB RAM · Ubuntu 22.04 / 24.04
